@@ -1,4 +1,4 @@
-# FUTURE-INTERNS-TASK-2
+# FUTURE_BC_Task02
 # Task 2 – ERC-20 Token Development
 
 ## Theory  
